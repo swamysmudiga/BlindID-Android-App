@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134585485474",
+    "project_id": "blinkid-c7822",
+    "storage_bucket": "blinkid-c7822.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134585485474:android:cffbc2ef277b24e2546ffb",
+        "android_client_info": {
+          "package_name": "com.blink.blinkid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW4EPvqj62LZp9dm1unqqzkrrh7Crzr9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
